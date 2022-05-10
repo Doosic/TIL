@@ -5,26 +5,20 @@
 
 ## ⚡ Language
 > 언어 TIL
+> [예시](https://binco.tistory.com)
 
 ## 📲 DataBase
 > DB TIL
 
 ## 📒 Library
 > 라이브러리 TIL
-* [가짜 데이터 생성 Faker.js 파헤치기](https://binco.tistory.com/entry/%EA%B0%80%EC%A7%9C%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%83%9D%EC%84%B1-Fakerjs-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0)
-* [Maven VS Gradle](https://binco.tistory.com/entry/Maven-VS-Gradle)
-* [Maven pom](https://binco.tistory.com/entry/Maven-pomxml-%EC%84%A4%EC%A0%95-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0)
-* [JPA란?](https://binco.tistory.com/entry/JPA%EC%A0%95%EC%9D%98-%EC%9E%A5%C2%B7%EB%8B%A8%EC%A0%90)
 
 ## 📚 Study
 > 사내 스터디 TIL
 
 ## 🌏 Etc
 > 토이 프로젝트, 자격증, 오류 등 각 종 개발 관련 TIL
-* [토이 프로젝트 스프레드 시트 구성](https://docs.google.com/spreadsheets/d/1HDfa2c6yjC1WQRUA2B5nOFZ89rwETPDK0mqIpw1sPE8/edit#gid=0)
-* [LoadBalancing-StickySession-SessionClustering](https://binco.tistory.com/entry/LoadBalancing-StickySession-SessionClustering)
-* [컴활1급 필기 공부](https://binco.tistory.com/entry/%EC%BB%B4%ED%99%9C1%EA%B8%89%ED%95%84%EA%B8%B0-%ED%95%A9%EA%B2%A9-%EB%8B%A8%EA%B8%B0%EA%B0%84%EA%B3%B5%EB%B6%80%EB%B2%95-%ED%9B%84%EA%B8%B0)
+
 ***
 > 참고했던 블로그
-* [TDD 프로그래밍](https://mangkyu.tistory.com/182)
-* [@Valid @Validated](https://mangkyu.tistory.com/174?category=761302)
+
