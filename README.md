@@ -5,7 +5,7 @@
 
 ## ⚡ Language
 > 언어 TIL
-> [예시](https://binco.tistory.com)
+[예시](https://binco.tistory.com)
 
 ## 📲 DataBase
 > DB TIL
