@@ -11,6 +11,7 @@
 [JAVA의 빌드툴에 대해 알아보자](https://doosicee.tistory.com/entry/JAVA%EC%9D%98-%EB%B9%8C%EB%93%9C%ED%88%B4%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)<br>
 [Maven의 설정파일 pom.xml을 알아보자](https://doosicee.tistory.com/entry/Maven%EC%9D%98-%EC%84%A4%EC%A0%95%ED%8C%8C%EC%9D%BC-Pomxml%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)<br>
 [Spring framework란 무엇인가? 기본 개념 정리](https://doosicee.tistory.com/entry/Spring-framework%EB%9E%80)<br>
+[Spring framework MVC 패턴 알아보기](https://doosicee.tistory.com/entry/Spring-framework-MVC-%ED%8C%A8%ED%84%B4)<br>
 
 
 ## Language
