@@ -28,6 +28,9 @@
 
 ## Company Study
 * [그림으로 공부하는 IT 인프라 구조 - 야마자키 야스시, 미나와 케이코, 아제카츠 요헤이, 사토 타카히코 (2022년 6월 13일 완료)](https://doosicee.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-IT-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0%EC%A0%95%EB%A6%AC)
+<p>
+  
+</p>
 * 읽기 좋은 코드가 좋은 코드다 - 더스틴 보즈웰, 트레버 파우커 (2022년 6월 27일 완료)
 
 ## Etc (토이 프로젝트, 오류 등 각 종 개발 관련)
