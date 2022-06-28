@@ -32,13 +32,13 @@
 
 
 ## Company Study
-* [그림으로 공부하는 IT 인프라 구조 - 야마자키 야스시, 미나와 케이코, 아제카츠 요헤이, 사토 타카히코](https://doosicee.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-IT-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0%EC%A0%95%EB%A6%AC)
+* [그림으로 공부하는 IT 인프라 구조 - 야마자키 야스시, 미나와 케이코, 아제카츠 요헤이, 사토 타카히코](https://doosicee.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-IT-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%A1%B0%EC%A0%95%EB%A6%AC)<br>
 <p>
   <img src="https://user-images.githubusercontent.com/82255957/174920350-f5ee5b7f-4cac-4af4-8dc8-4f2168c4294b.png" width="200" height="200"/>
   <img src="https://user-images.githubusercontent.com/82255957/174920400-e933691a-7cda-4015-afbf-3dc55ce45302.png" width="200" height="200"/>
 </p>
-<hr>
-* [읽기 좋은 코드가 좋은 코드다 - 더스틴 보즈웰, 트레버 파우커](https://doosicee.tistory.com/entry/%EC%9D%BD%EA%B8%B0-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EA%B0%80-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EB%8B%A4)
+
+* [읽기 좋은 코드가 좋은 코드다 - 더스틴 보즈웰, 트레버 파우커](https://doosicee.tistory.com/entry/%EC%9D%BD%EA%B8%B0-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EA%B0%80-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C%EB%8B%A4)<br>
 <p>
 <img src="https://user-images.githubusercontent.com/82255957/176163242-2cb6e3d5-af7a-408a-be48-35ad6c289575.jpg" width="200" height="200"/>
 <img src="https://user-images.githubusercontent.com/82255957/176163341-8ef8f439-6954-4a50-ad24-12348fe2a646.png" width="200" height="200"/>
