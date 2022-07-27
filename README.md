@@ -24,6 +24,7 @@
 
 ## Cache
 * [Cache 기본 개념 및 SpringBoot 예제](https://doosicee.tistory.com/entry/Cache%EC%99%80-SpringBoot-Redis)<br>
+* [Redis를 SpringBoot에 적용하기](https://doosicee.tistory.com/entry/Redis%EB%A5%BC-SpringBoot%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)<br>
 
 ## DataBase
 * [Vault]
