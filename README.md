@@ -47,7 +47,7 @@
 <img src="https://user-images.githubusercontent.com/82255957/176163341-8ef8f439-6954-4a50-ad24-12348fe2a646.png" width="200" height="200"/>
 </p>
 
-* [클린 코드 (7월26일 )]
+* [클린 코드 (8월 29일 )]
 
 ## Etc (토이 프로젝트, 오류 등 각 종 개발 관련)
 
