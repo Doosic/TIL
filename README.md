@@ -13,7 +13,8 @@
 * [Spring framework란 무엇인가? 기본 개념 정리](https://doosicee.tistory.com/entry/Spring-framework%EB%9E%80)<br>
 * [Spring framework MVC 패턴 알아보기](https://doosicee.tistory.com/entry/Spring-framework-MVC-%ED%8C%A8%ED%84%B4)<br>
 
-
+## 개발 방법에 대한 고민
+* [데이터 가공은 어디서 해야 할까?(frontend, backend)](https://doosicee.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EA%B3%B5%EC%9D%80-%EC%96%B4%EB%94%94%EC%84%9C-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8Cfrontend-backend)
 
 ## ErrorReview
 * [Required request body is missing, Argument(s) are different! Wanted](https://doosicee.tistory.com/entry/SpringBoot-TestCode-Error-%EC%A0%95%EB%A6%AC)<br>
