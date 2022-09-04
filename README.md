@@ -49,7 +49,7 @@
 <img src="https://user-images.githubusercontent.com/82255957/176163341-8ef8f439-6954-4a50-ad24-12348fe2a646.png" width="200" height="200"/>
 </p>
 
-* [클린 코드 (8월 29일 )]
+* [클린 코드1 (9월 04일 )](https://doosicee.tistory.com/entry/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-1)
 
 ## Etc (토이 프로젝트, 오류 등 각 종 개발 관련)
 
