@@ -48,7 +48,18 @@
 <img src="https://user-images.githubusercontent.com/82255957/176163341-8ef8f439-6954-4a50-ad24-12348fe2a646.png" width="200" height="200"/>
 </p>
 
-* [클린 코드1 (9월 04일 )](https://doosicee.tistory.com/entry/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-1)
+<details>
+<summary>* 클린 코드(클릭 리스트)</summary>
+<div markdown="1">
+
+|제목|내용|
+|--|--|
+|1장 깨끗한 코드|[깨끗한 코드 리뷰](https://doosicee.tistory.com/entry/CleanCode-1%EC%9E%A5-%EA%B9%A8%EB%81%97%ED%95%9C-%EC%BD%94%EB%93%9C?category=1083699)|
+|2장 의미 있는 이름|[의미 있는 이름 리뷰](https://doosicee.tistory.com/entry/CleanCode-2%EC%9E%A5-%EC%9D%98%EB%AF%B8-%EC%9E%88%EB%8A%94-%EC%9D%B4%EB%A6%84?category=1083699)|
+|3장 함수|[함수 리뷰](https://doosicee.tistory.com/entry/CleanCode-3%EC%9E%A5-%ED%95%A8%EC%88%98?category=1083699)|
+
+</div>
+</details>
 
 ## Etc (토이 프로젝트, 오류 등 각 종 개발 관련)
 
