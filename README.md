@@ -57,6 +57,7 @@
 |1장 깨끗한 코드|[깨끗한 코드 리뷰](https://doosicee.tistory.com/entry/CleanCode-1%EC%9E%A5-%EA%B9%A8%EB%81%97%ED%95%9C-%EC%BD%94%EB%93%9C?category=1083699)|
 |2장 의미 있는 이름|[의미 있는 이름 리뷰](https://doosicee.tistory.com/entry/CleanCode-2%EC%9E%A5-%EC%9D%98%EB%AF%B8-%EC%9E%88%EB%8A%94-%EC%9D%B4%EB%A6%84?category=1083699)|
 |3장 함수|[함수 리뷰](https://doosicee.tistory.com/entry/CleanCode-3%EC%9E%A5-%ED%95%A8%EC%88%98?category=1083699)|
+|4장 주석|[주석 리뷰](https://doosicee.tistory.com/entry/CleanCode-4%EC%9E%A5-%EC%A3%BC%EC%84%9D)|
 
 </div>
 </details>
