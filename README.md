@@ -59,6 +59,7 @@
 |3장 함수|[함수 리뷰](https://doosicee.tistory.com/entry/CleanCode-3%EC%9E%A5-%ED%95%A8%EC%88%98?category=1083699)|
 |4장 주석|[주석 리뷰](https://doosicee.tistory.com/entry/CleanCode-4%EC%9E%A5-%EC%A3%BC%EC%84%9D)|
 |5장 형식맞추기|[형식 리뷰](https://doosicee.tistory.com/entry/CleanCode-5%EC%9E%A5-%ED%98%95%EC%8B%9D-%EB%A7%9E%EC%B6%94%EA%B8%B0)|
+|6장 객체와 자료구조|[객체와 자료구조 리뷰](https://doosicee.tistory.com/entry/CleanCode-6%EC%9E%A5-%EA%B0%9D%EC%B2%B4%EC%99%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)|
 
 </div>
 </details>
