@@ -22,7 +22,8 @@
 
 
 ## Language
-* [JPA - SQL 중심 개발의 문제점](https://doosicee.tistory.com/entry/JPA-SQL-%EC%A4%91%EC%8B%AC-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90)
+* [JPA - SQL 중심 개발의 문제점](https://doosicee.tistory.com/entry/JPA-SQL-%EC%A4%91%EC%8B%AC-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EB%AC%B8%EC%A0%9C%EC%A0%90)<br>
+* [JPA- Java Persistence API란?](https://doosicee.tistory.com/entry/JPA-Java-Persistence-API-%EB%9E%80)
 
 
 ## Cache
