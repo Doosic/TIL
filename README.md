@@ -19,6 +19,7 @@
 
 ## ErrorReview
 * [Required request body is missing, Argument(s) are different! Wanted](https://doosicee.tistory.com/entry/SpringBoot-TestCode-Error-%EC%A0%95%EB%A6%AC)<br>
+* [Vue.js router History 모드 사용 배포시 필수로 주의 할 점](https://doosicee.tistory.com/entry/vuejs-Router-Mode)
 
 
 ## Language
