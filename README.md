@@ -69,6 +69,7 @@
 
 </div>
 </details>
+* [클린코드 특수 사례 패턴 적용기](https://doosicee.tistory.com/entry/%EA%B2%BD%EA%B3%84-%EC%99%B8%EB%B6%80-API%EB%A5%BC-%EB%8C%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%8B%A4%EC%A0%84%ED%8E%B8)<br>
 
 ## Etc (토이 프로젝트, 오류 등 각 종 개발 관련)
 
